@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="6les_overloadOperators/6les_overloadOperators.vcxproj" />
+</Solution>
